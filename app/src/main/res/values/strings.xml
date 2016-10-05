@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">HikerNotes</string>
+    <string name="action_settings">Settings</string>
+    <string name="save_trail_rsc">Save trail</string>
+    <string name="save_rsc">Save Locally</string>
+    <string name="upload_rsc">Upload</string>
+    <string name="add_tour_rsc">Add tour</string>
+    <string name="details_rsc">Details</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="sort_by_rsc">Sort by..</string>
+    <string name="saved_trails_rsc">Saved trails</string>
+    <string name="start_tracking_rsc">Start tracking</string>
+    <string name="stop_tracking_rsc">Stop tracking</string>
+    <string name="clear_current_rsc">Clear current</string>
+    <string name="comments_bold"><b>COMMENTS</b></string>
+    <string name="react_with_comment_rsc">React</string>
+    <string name="show_comments_rsc">Show comments</string>
+    <string name="say_somethi_n_rsc">Say somethi\'n</string>
+    <string name="delete_trail_rsc">DELETE TRAIL</string>
+    <string name="show_map_res">Show map</string>
+    <string name="save_trail_res">SAVE TRAIL</string>
+    <string name="no_data_rsc">No Data</string>
+    <string name="loading_data_rsc">Loading data...</string>
+    <string name="search_title_rsc">Search</string>
+    <string name="tour_name_rsc">Tour name</string>
+    <string name="search_results_rsc">Search Results</string>
+</resources>

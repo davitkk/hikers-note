@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.example.hikernotes.MainActivity">
+
+    <item android:id="@+id/sort_by_id" android:title="@string/sort_by_rsc">
+        <menu>
+            <group android:id="@+id/sort_settings" android:checkableBehavior="single">
+                <item android:id="@+id/date_check_id"
+                      android:title="..date" />
+                <item android:id="@+id/likes_check_id"
+                      android:title="..likes" />
+            </group>
+        </menu>
+    </item>
+</menu>
